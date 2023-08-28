@@ -1,0 +1,43 @@
+body{background-color: skyblue;
+    background-image:url(C:\Desktop\My Website\Images\Body.jpg) ;
+    background-repeat:no-repeat;
+}
+
+.font1{
+    text-align: right; outline-style: solid; outline-color: blue;  outline-width:thick; background-color: blue;
+     color: white;  width: 1230px;  height:35px;  font-weight: bold;  font-size:25px;   
+}
+
+.search{
+    border-radius: 10px;border-color: blueviolet;
+}
+.button{
+    border-radius: 10px; border-color: blueviolet;
+}
+.mainfont{
+    font-family: serif; 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size:65px;font-weight: bold;background-color:lightblue;
+}
+a:hover{
+    color: rgba(230, 12, 4, 0.918);
+}
+a{text-decoration: none;
+
+}
+.font2{
+    text-align: left;outline-style: solid;outline-color:blueviolet; outline-width:thick;background-color:blueviolet;
+     color: white; width: 800px; height: 40px; font-size: 30px; font-weight: bolder;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.subfonts{
+    font-size: 40px;font-weight: bolder;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;color: blue;
+}
+.homepara1{
+    font-size: 35px;font-family:Verdana, Geneva, Tahoma, sans-serif;font-weight: bolder;color: indigo;background-color: aquamarine;
+}
+.homepara2{
+    font-size: 30px; font-family:Bookman Old Style; font-weight: bolder; color:indigo; background-color: aquamarine;
+}
+.homepara3{
+    font-size: 30px;font-family:Bookman Old Style;font-weight: bolder;color:red;background-color: aquamarine;
+}
